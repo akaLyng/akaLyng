@@ -15,7 +15,7 @@ I spend most of my free time on my Raspberry Pi homelab and building small proje
 
 **Group projects**
 - [SoknadWebsite](https://github.com/akaLyng/SoknadWebsite): the website and video we made for our praksis application
-- [Kartverket – NRL](https://github.com/akaLyng/nrl-oppgave-dev): semester project we built with Kartverket as the case owner
+- [Kartverket – NRL](https://github.com/akaLyng/Semesterprosjekt-DOR-Kartverket): semester project we built with Kartverket as the case owner
 
 **Tools:** HTML, CSS, JavaScript, Three.js, Vite, Python, C#, Linux, Git
 

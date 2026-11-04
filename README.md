@@ -17,6 +17,6 @@ I spend most of my free time on my Raspberry Pi homelab and building small proje
 - [SoknadWebsite](https://github.com/akaLyng/SoknadWebsite): the website and video we made for our internships BSc application
 - [Kartverket – NRL](https://github.com/akaLyng/Semesterprosjekt-DOR-Kartverket): semester project we built with Kartverket as the case owner
 
-**Tools:** HTML, CSS, JavaScript, Three.js, Vite, Python, C#, Linux, Git
+**Tools:** HTML, CSS, JavaScript, Three.js, Vite, Azure, Python, C#, Linux, Git
 
 [cv.thelyng.dev](https://cv.thelyng.dev) · [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/elias-lyng-153617336/)

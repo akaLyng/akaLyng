@@ -1,6 +1,6 @@
 <img src="portrait.svg" align="right" width="300" alt="ASCII portrait of Elias Lyng" />
 
-##Elias Lyng
+# Elias Lyng
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1500&color=8B949E&vCenter=true&width=420&lines=Information+Systems+student+%40+UiA;Homelab%2C+web+and+3D+projects" alt="Information Systems student @ UiA. Homelab, web and 3D projects." />
 

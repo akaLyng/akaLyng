@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/space-banner.gif" <img width="900" height="320" alt="space-banner" src="https://github.com/user-attachments/assets/9f337ede-c5d9-473d-9bc6-1c23f1deaa28" />
+</p>
+
 <img src="portrait.svg" align="right" width="300" alt="ASCII portrait of Elias Lyng" />
 
 ### Elias Lyng
@@ -19,4 +23,5 @@ I spend most of my free time on my Raspberry Pi homelab and building small proje
 
 **Tools:** HTML, CSS, JavaScript, Three.js, Vite, Azure, Python, C#, Linux, Git
 
-[cv.thelyng.dev](https://cv.thelyng.dev) · [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/elias-lyng-153617336/)
+[cv.thelyng.dev](https://cv.thelyng.dev) · [LinkedIn](https://www.linkedin.com/in/elias-lyng-153617336/)
+
